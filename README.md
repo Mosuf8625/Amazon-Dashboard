@@ -1,7 +1,7 @@
 📊 Amazon Prime Data Analysis - Power BI Report
 This repository contains a Power BI report analyzing Amazon Prime video content. The report explores key metrics such as content distribution, genre trends, ratings, and release patterns to provide meaningful insights into Amazon Prime's video catalog.
 
-# File
+📂 File
 Amazon Prime.pbix – Power BI Desktop file containing data visualizations, dashboards, and interactive reports.
 
 📌 Features
